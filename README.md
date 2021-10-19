@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shitemoticon
-- 🌱 I’m currently learning django
 - 📫 How to reach me <a href="https://t.me/hesie">@hesie<a> on Telegram
 
 <!---
